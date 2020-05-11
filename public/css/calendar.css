@@ -1,0 +1,60 @@
+.month {
+    margin-top: 15px;
+    margin-right: 50px;
+}
+
+.day {
+    height: 100px;
+    width: 100px;
+    background: #ccffff;
+    margin-top: 20px;
+    margin-right: 20px;
+    display: inline-block;
+}
+.day_num {
+    margin-top: -5px;
+    margin-left: 5px;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+}
+
+.tasks {
+    padding: 5px;
+    margin-top: 0px;
+    overflow-y: scroll;
+    height: 70px;
+    overflow-style: auto;
+}
+
+.task {
+    font-size: 12px;
+    line-height: 1.2;
+}
+
+.create_task{
+    display:inline-block;
+}
+
+.create_task_icon {
+    height: 20px;
+    width: 20px;
+    margin-top: -5px;
+    margin-left: 33px;
+
+}
+
+.week_info{
+  margin-top: 50px;
+  
+}
+
+.day_info {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-style: initial;
+  text-align: center;
+  vertical-align: bottom;
+  height: 30px;
+}
